@@ -4,7 +4,7 @@
 - id: "meta_description"
   translation: "A portfolio and blog site by Abid"
 - id: "meta_keywords"
-  translation: "hugo, theme, bootstrap, Abid, Utsha, personal site, portfolio, single page application"
+  translation: "hugo, theme, bootstrap, Abid, Abid Ebna Saif, Utsha, personal site, portfolio, resume"
 - id: "meta_author"
   translation: "Abid Ebna Saif Utsha"
 - id: "meta_image"
@@ -12,7 +12,7 @@
 
 ## Header
 - id: "logo_text1"
-  translation: "Abid"
+  translation: "Abid Ebna Saif Utsha"
 
 - id: "logo_text2"
   translation: ""
@@ -53,13 +53,23 @@
 
 ## Homepage showcase
 - id: "showcase_title"
-  translation: "Abid Ebna Saif Utsha"
+  translation: "Hi, I'm Abid"
 
 - id: "showcase_subtitle"
   translation: "Senior Data Engineer"
 
 - id: "showcase_description"
-  translation: ""
+  translation: <p class="lead">
+    I am currently working out of MoneyLion's Kuala Lumpur office in Malaysia, 
+    contributing to the company's mission of empowering Americans to make best
+    financial decisions.
+    </p>
+    <p class="lead">
+    I thrive on tackling complex data challenges, optimising organisation-wide
+    data solutions, and fostering a culture of collaboration and mentorship
+    within my team. Passionate about leveraging big data technologies, cloud
+    platforms to drive business value and innovation.
+    </p>
 
 - id: "showcase_button"
   translation: "Contact"
@@ -73,11 +83,14 @@
   translation: "Who am I?"
 
 - id: "about_content"
-  translation:  <p class="lead">
-        
-      </p>
-      <p class="lead">
-      
+  translation: <p class="lead">
+    Results-driven Data Engineer with four years of industry experience in
+    designing, building and optimising scalable data architectures. Skilled in
+    developing and maintaining high-performance data pipelines that support
+    business intelligence, analytics and machine learning initiatives.
+    </p>
+    <p class="lead">
+    Adept at collaborating with cross-functional teams, transla  
     </p>
 
 - id: "about_button"
