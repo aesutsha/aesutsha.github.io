@@ -2,10 +2,10 @@
 showcase:
   enable: true
   image:
-    x: "images/showcase/showcase.png"
-    _2x: "images/showcase/showcase@2x.png"
+    x: "images/showcase/Abid-ML.JPG"
+    _2x: "images/showcase/portfolio_profile_pic.png"
   imageMobile:
-    x: "images/showcase/showcase-mobile.jpg"
+    x: "images/showcase/Abid-ML.JPG"
 
   button:
     icon: "icon-email"
@@ -25,8 +25,8 @@ about:
     icon: "icon-user"
     URL: "https://www.linkedin.com/in/abid-ebna-saif-utsha/"
   image:
-    x: "images/showcase/showcase.png"
-    _2x: "images/showcase/showcase@2x.png"
+    x: "images/showcase/who_am_i_cropped.png"
+    _2x: "images/showcase/who_am_i.png"
 
 # education
 education:
