@@ -1,0 +1,4 @@
+.about__profile-picture img {
+    min-width: 200px;
+    height: auto !important;
+}
