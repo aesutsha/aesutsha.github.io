@@ -177,10 +177,10 @@
   translation: "+60182479142"
 
 - id: "contact_email_title"
-  translation: "abidebnasaifutsha@gmail.com"
+  translation: "Email"
 
 - id: "contact_email_email"
-  translation: '<a href="mailto:mail@example.com">mail@example.com</a>'
+  translation: '<a href="mailto:abidebnasaifutsha@gmail.com">abidebnasaifutsha@gmail.com</a>'
 
 - id: "contact_address_title"
   translation: ""
