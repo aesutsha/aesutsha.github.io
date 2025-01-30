@@ -28,7 +28,7 @@ about:
     x: "images/showcase/who_am_i_large.png"
     _2x: "images/showcase/who_am_i_large.png"
   imageMobile:
-    x: "images/showcase/who_am_i.png"
+    x: "images/showcase/who_am_i_large.png"
 
 # education
 education:
