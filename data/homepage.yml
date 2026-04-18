@@ -36,7 +36,7 @@ education:
   items:
     - university: "International Islamic University Malaysia"
       year: "2016-2020"
-      degree: "Bachelor of Computer Science"
+      degree: "Bachelor of Computer Science — Specialization in Data Science & Computational Intelligence"
 
 # experience
 ## to hiden a button, set the icon to an empty string
@@ -58,9 +58,8 @@ experience:
   #   ## the url and text are localized, fill them in the i18n file
   #   ## keys: experience_button2, experience_button_url2 
 
-# Client & Work
-client_and_work:
-  enable: false
+Achievements & Awards:
+  enable: true
 
 # testimonial
 testimonial:
