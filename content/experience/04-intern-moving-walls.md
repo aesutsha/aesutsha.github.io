@@ -10,4 +10,4 @@ duration: "Jan 2020 - Sep 2020"
 
 **Cross-Functional Enablement:** Partnered with Data and Business Analysts to automate manual workflows and optimize SQL queries, reducing "time-to-insight" for critical business reports.
 
-**Data Pipeline Development:** Assisted in building and maintaining batch ETL pipelines for high-velocity IoT sensor data ingestion into the central data warehouse.
+**Production-Grade ML Integration:** Developed and integrated a statistical normalization model into the production system to handle anomalous IoT sensor data, ensuring data consistency across the global asset portfolio.
