@@ -2,9 +2,9 @@
 - id: "meta_title"
   translation: "Abid's Portfolio"
 - id: "meta_description"
-  translation: "A portfolio and blog site by Abid"
+  translation: "Portfolio of Abid Ebna Saif Utsha — Senior Data Engineer specializing in Cloud Data Lakehouse, Snowflake, Apache Iceberg, and Fintech data platforms."
 - id: "meta_keywords"
-  translation: "hugo, theme, bootstrap, Abid, Abid Ebna Saif, Utsha, personal site, portfolio, resume"
+  translation: "Abid Ebna Saif Utsha, Senior Data Engineer, Data Lakehouse, Snowflake, Apache Iceberg, PySpark, Kafka, Terraform, AWS, Fintech, portfolio"
 - id: "meta_author"
   translation: "Abid Ebna Saif Utsha"
 - id: "meta_image"
@@ -29,7 +29,7 @@
 
 ## Footer
 - id: "footer_notice"
-  translation: "© Abid Ebna Saif Utsha 2025"
+  translation: "© Abid Ebna Saif Utsha 2026"
 
 - id: "language"
   translation: "Language"
@@ -49,7 +49,7 @@
   translation: "Abid's Portfolio"
 
 - id: "head_description"
-  translation: "A portfolio and blog site by Abid"
+  translation: "Portfolio of Abid Ebna Saif Utsha — Senior Data Engineer specializing in Cloud Data Lakehouse, Snowflake, Apache Iceberg, and Fintech data platforms."
 
 ## Homepage showcase
 - id: "showcase_title"
@@ -60,9 +60,9 @@
 
 - id: "showcase_description"
   translation: <p class="lead">
-    I am currently working out of MoneyLion's Kuala Lumpur office in Malaysia, 
-    contributing to the company's mission of empowering Americans to make best
-    financial decisions.
+    Senior Data Engineer with 5+ years of experience building scalable Cloud Data Lakehouse
+    architectures and high-impact Fintech data platforms. Currently leading a team of 15+ engineers
+    at MoneyLion, Kuala Lumpur.
     </p>
 
 - id: "showcase_button"
@@ -70,7 +70,7 @@
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
-  translation: "A picture of Cool Name"
+  translation: "A picture of Abid Ebna Saif Utsha"
 
 ## Homepage about
 - id: "about_title"
@@ -78,21 +78,20 @@
 
 - id: "about_content"
   translation: <p class="lead">
-    Results-driven Data Engineer with four years of industry experience in
-    designing, building and optimising scalable data architectures. Skilled in
-    developing and maintaining high-performance data pipelines that support
-    business intelligence, analytics and machine learning initiatives.
+    Senior Data Engineer with 5+ years of experience specializing in Cloud Data Lakehouse
+    architecture and scalable Fintech platforms. Expert in maintaining Snowflake infrastructure
+    via Terraform and leading cross-functional engineering teams of 15+ to deliver high-impact
+    data solutions.
     </p>
     <p class="lead">
-    Adept at collaborating with cross-functional teams, translating complex
-    business requirements into efficient data solutions, and ensuring seamless
-    data flow across systems.
+    Proven track record in migrating complex legacy systems to modern stacks (Redshift to Snowflake),
+    implementing automated CI/CD pipelines, and architecting Reverse ETL frameworks to drive
+    business self-service. AWS Certified Solutions Architect with deep expertise in Apache Iceberg,
+    PySpark, Kafka, and Airflow.
     </p>
     <p class="lead">
-    Thriving in solving complex data challenges, optimising organisation-wide
-    data solutions, and fostering a culture of collaboration and mentorship
-    within my team. Passionate about leveraging big data technologies, cloud
-    platforms to drive business value and innovation.
+    Passionate about solving complex data engineering challenges, mentoring engineers, and
+    enabling data-driven decision-making at scale across millions of users.
     </p>
 
 - id: "about_button"
@@ -107,7 +106,7 @@
   translation: "Experience"
 
 - id: "experience_description"
-  translation: ""
+  translation: "5+ years across Fintech and AdTech, from data engineering intern to leading a team of 15+ engineers at a high-growth fintech."
 
 - id: "experience_button"
   translation: "LinkedIn" 
@@ -127,9 +126,9 @@
 - id: "experience_button3_url"
   translation: "/experience"
 
-## Homepage client & work
+## Homepage client & work (repurposed as Achievements & Awards)
 - id: "client_work_title"
-  translation: "Clients & Work"
+  translation: "Achievements & Awards"
 
 ## Homepage newsletter
 - id: "newsletter_title"
