@@ -26,10 +26,6 @@ duration: "Sep 2021 - Present"
 
 **Business-Critical Operations:** Engineered and maintained high-revenue pipelines and applications, including automated repayment scripts and Data APIs; ensured high-availability with zero production incidents and no reported loss.
 
----
-
-### Data Engineer | Sep 2021 – Jun 2023
-
 **Modern Ingestion Strategy (Airbyte to dlthub):** Architected the transition from Airbyte to dlthub for complex ingestion requirements; leveraged the lightweight Python library to increase custom flexibility and long-term maintainability while reducing infrastructure overhead.
 
 **Full-Stack Ownership:** Owned and maintained a diverse ecosystem of production codebases, including custom Python frameworks, Airflow DAGs, Snowflake Terraform infrastructure, and business-critical data services.

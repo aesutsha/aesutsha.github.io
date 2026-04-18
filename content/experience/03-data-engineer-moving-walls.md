@@ -18,4 +18,4 @@ duration: "Oct 2020 - Sep 2021"
 
 **Warehouse Optimization:** Managed and optimized cloud data warehouses and databases, performing advanced indexing and warehouse query tuning (sort key, dist key) to significantly improve response times for both platform performance and ad-hoc business analysis.
 
-**Production-Grade ML Integration:** Developed and integrated a statistical normalization model into the production system to handle anomalous IoT sensor data, ensuring data consistency across the global asset portfolio.
+**Data Pipeline Development:** Assisted in building and maintaining batch ETL pipelines for high-velocity IoT sensor data ingestion into the central data warehouse.
