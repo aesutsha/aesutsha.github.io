@@ -1,7 +1,7 @@
 ---
 date: 2020-10-01T00:00:00+08:00
 draft: false
-title: "Data Engineer at Moving Walls"
+title: "Data Engineer"
 jobTitle: "Data Engineer"
 company: "Moving Walls Sdn bhd"
 location: "Kuala Lumpur, Malaysia"

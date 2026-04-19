@@ -1,7 +1,7 @@
 ---
 date: 2021-09-01T00:00:00+08:00
 draft: false
-title: "MoneyLion Malaysia Sdn bhd"
+title: "Senior Data Engineer"
 jobTitle: "Senior Data Engineer"
 company: "MoneyLion Malaysia Sdn bhd"
 location: "Kuala Lumpur, Malaysia"
