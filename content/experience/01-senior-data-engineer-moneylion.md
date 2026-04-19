@@ -1,7 +1,7 @@
 ---
-date: 2023-07-01T00:00:00+08:00
+date: 2021-09-01T00:00:00+08:00
 draft: false
-title: "MoneyLion Malaysia Sdn bhd"
+title: "Senior Data Engineer"
 jobTitle: "Senior Data Engineer"
 company: "MoneyLion Malaysia Sdn bhd"
 location: "Kuala Lumpur, Malaysia"
@@ -9,6 +9,7 @@ duration: "Sep 2021 - Present"
 ---
 
 ### Senior Data Engineer | Jul 2023 – Present
+### Data Engineer | Sep 2021 - Jun 2023
 
 **Engineering Leadership:** Technical lead for a group of 15+ data engineers, providing architectural governance, pull request reviews, CI/CD strategy (Codefresh/GitHub Actions), and mentorship to scale a high-growth fintech data platform.
 

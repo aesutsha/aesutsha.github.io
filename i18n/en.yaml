@@ -8,7 +8,7 @@
 - id: "meta_author"
   translation: "Abid Ebna Saif Utsha"
 - id: "meta_image"
-  translation: "/img/general/og-image.jpg"
+  translation: "/images/showcase/portfolio_profile_pic_large.png"
 
 ## Header
 - id: "logo_text1"
@@ -89,10 +89,6 @@
     business self-service. AWS Certified Solutions Architect with deep expertise in Apache Iceberg,
     PySpark, Kafka, and Airflow.
     </p>
-    <p class="lead">
-    Passionate about solving complex data engineering challenges, mentoring engineers, and
-    enabling data-driven decision-making at scale across millions of users.
-    </p>
 
 - id: "about_button"
   translation: "About Me"
@@ -156,9 +152,6 @@
 ## Homepage contact
 - id: "contact_title"
   translation: "Contact"
-
-- id: "contact_button"
-  translation: "Send message"
 
 - id: "contact_form_name"
   translation: "Full Name"

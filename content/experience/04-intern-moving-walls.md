@@ -1,7 +1,7 @@
 ---
 date: 2020-01-01T00:00:00+08:00
 draft: false
-title: "Intern at Moving Walls"
+title: "Intern"
 jobTitle: "Data Engineering Intern"
 company: "Moving Walls Sdn bhd"
 location: "Kuala Lumpur, Malaysia"

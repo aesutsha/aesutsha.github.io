@@ -1,4 +1,29 @@
+/* Consistent image height across showcase and about sections */
+.profile-image img,
 .about__profile-picture img {
-    min-width: 200px;
-    height: auto !important;
+    width: 100%;
+    max-height: 460px;
+    object-fit: cover;
+    object-position: center top;
+}
+
+/* Vertically center text alongside image in achievement/project rows */
+.even-row,
+.uneven-row {
+    align-items: center;
+}
+
+/* Wide photos (even rows) fill the column */
+.picture-works.even img {
+    width: 100%;
+    height: auto;
+}
+
+/* Badges/icons (odd rows) — constrain to a readable size and centre */
+.picture-works.odd img {
+    max-width: 320px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }

@@ -1,0 +1,122 @@
+<style>
+  /* padding provided by theme's .section class */
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin-top: 2.5rem;
+  }
+  @media (max-width: 991px) { .skills-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 575px) { .skills-grid { grid-template-columns: 1fr; } }
+
+  .skills-card {
+    border: 1px solid rgba(128,128,128,0.2);
+    border-radius: 8px;
+    padding: 1.25rem 1.5rem;
+  }
+  .skills-card__label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    opacity: 0.45;
+    margin-bottom: 0.85rem;
+    display: block;
+  }
+  .skills-card__badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .skill-pill {
+    display: inline-block;
+    padding: 0.25rem 0.7rem;
+    border: 1px solid currentColor;
+    border-radius: 4px;
+    font-size: 0.78rem;
+    font-weight: 500;
+    opacity: 0.75;
+    white-space: nowrap;
+    transition: opacity 0.15s ease;
+  }
+  .skill-pill:hover { opacity: 1; }
+  .skill-pill--cert {
+    background-color: #478079;
+    color: #fff !important;
+    border-color: #478079;
+    opacity: 1;
+  }
+</style>
+
+<section id="skills" class="section skills-section section--border-bottom">
+  <div class="container rad-animation-group rad-fade-down">
+    <h2>Skills</h2>
+    <div class="skills-grid">
+
+      <div class="skills-card">
+        <span class="skills-card__label">Languages</span>
+        <div class="skills-card__badges">
+          <span class="skill-pill">Python</span>
+          <span class="skill-pill">SQL</span>
+          <span class="skill-pill">Java</span>
+          <span class="skill-pill">Bash</span>
+        </div>
+      </div>
+
+      <div class="skills-card">
+        <span class="skills-card__label">Data Engineering</span>
+        <div class="skills-card__badges">
+          <span class="skill-pill">PySpark</span>
+          <span class="skill-pill">Spark Streaming</span>
+          <span class="skill-pill">Apache Iceberg</span>
+          <span class="skill-pill">DBT</span>
+          <span class="skill-pill">Airbyte</span>
+          <span class="skill-pill">dlthub</span>
+        </div>
+      </div>
+
+      <div class="skills-card">
+        <span class="skills-card__label">Streaming &amp; CDC</span>
+        <div class="skills-card__badges">
+          <span class="skill-pill">Kafka</span>
+          <span class="skill-pill">Flink CDC</span>
+          <span class="skill-pill">Debezium</span>
+        </div>
+      </div>
+
+      <div class="skills-card">
+        <span class="skills-card__label">Cloud &amp; Infrastructure</span>
+        <div class="skills-card__badges">
+          <span class="skill-pill skill-pill--cert">AWS ✓ Certified</span>
+          <span class="skill-pill">Snowflake</span>
+          <span class="skill-pill">Redshift</span>
+          <span class="skill-pill">Terraform</span>
+          <span class="skill-pill">Docker</span>
+          <span class="skill-pill">Kubernetes</span>
+          <span class="skill-pill">ArgoCD</span>
+        </div>
+      </div>
+
+      <div class="skills-card">
+        <span class="skills-card__label">Orchestration &amp; CI/CD</span>
+        <div class="skills-card__badges">
+          <span class="skill-pill">Airflow</span>
+          <span class="skill-pill">Codefresh</span>
+          <span class="skill-pill">GitHub Actions</span>
+          <span class="skill-pill">GitLab CI</span>
+        </div>
+      </div>
+
+      <div class="skills-card">
+        <span class="skills-card__label">Databases</span>
+        <div class="skills-card__badges">
+          <span class="skill-pill">PostgreSQL</span>
+          <span class="skill-pill">MongoDB</span>
+          <span class="skill-pill">DocumentDB</span>
+          <span class="skill-pill">MySQL</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
