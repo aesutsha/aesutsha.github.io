@@ -6,8 +6,8 @@ theme = "adritian-free-hugo-theme"
 
   title = 'Abid Ebna Saif Utsha'
   description = 'Senior Data Engineer specializing in Cloud Data Lakehouse architecture, Snowflake, Apache Iceberg, PySpark, and scalable Fintech data platforms.'
-  images = ['/img/og-img.png']
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+  images = ['/images/showcase/portfolio_profile_pic_large.png']
+  sections = ["showcase", "about", "skills", "experience", "client-and-work", "education", "testimonial", "contact", "newsletter"]
 
   homepageExperienceCount = 6
 
@@ -38,7 +38,7 @@ theme = "adritian-free-hugo-theme"
     enable = true
 
 [params.languages.selector.disable]
-  footer = false
+  footer = true
 
 [languages]
   [languages.en]
@@ -55,18 +55,23 @@ theme = "adritian-free-hugo-theme"
         URL = '#about'
         weight = 2
       [[languages.en.menus.header]]
-        name = 'Portfolio'
-        URL = '#portfolio'
+        name = 'Skills'
+        URL = '#skills'
         weight = 3
+      [[languages.en.menus.header]]
+        name = 'Portfolio'
+        URL = '#experience'
+        weight = 4
       #  [[languages.en.menus.header]]
       #  name = "Experience"
       #  URL = "#experience"
       #  weight = 4
 
-      [[languages.en.menus.header]]
-        name = "Blog"
-        URL = "/blog"
-        weight = 5
+      # Blog disabled until content is created (see content/blog/)
+      #  [[languages.en.menus.header]]
+      #  name = "Blog"
+      #  URL = "/blog"
+      #  weight = 5
 
       [[languages.en.menus.header]]
         name = "Contact"
