@@ -1,3 +1,8 @@
+/* Push showcase content below the fixed nav bar */
+.rad-showcase {
+    padding-top: 70px;
+}
+
 /* Consistent image height across showcase and about sections */
 .profile-image img,
 .about__profile-picture img {
@@ -26,4 +31,16 @@
     height: auto;
     display: block;
     margin: 0 auto;
+}
+
+/* Social link buttons in showcase */
+.social-btn {
+    padding: 0.55rem 1.2rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    border-radius: 6px;
+}
+.social-btn__icon {
+    font-size: 1.3rem;
 }
