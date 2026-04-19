@@ -13,9 +13,11 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
+      name: "LinkedIn"
       URL: "https://www.linkedin.com/in/abid-ebna-saif-utsha/"
 
     - icon: "square-github"
+      name: "GitHub"
       URL: "https://github.com/aesutsha"
 
 # about
